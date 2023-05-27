@@ -8,7 +8,7 @@
     "dev": "webpack --mode development --watch",
     "build": "webpack --mode production"
   },
-  "author": "Fukuchi Haruki",
+  "author": "Fukuchi, Haruki",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.12.10",
