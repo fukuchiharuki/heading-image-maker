@@ -1,6 +1,6 @@
 # Heading image maker
 
-- [Demo](https://heading-image-maker.github.io/)
+- [Demo](https://fukuchiharuki.me/heading-image-maker/)
 
 # Introduction
 
